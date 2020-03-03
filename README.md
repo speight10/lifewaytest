@@ -6,11 +6,11 @@ This is a spring boot app, the ide that was used to create it was IntelliJ but a
 
 After the project is imported please run a maven install to download dependencies for compilation.
 
-After running the app can be invoked by hitting this endpoint:
+After get the app, the program can be invoked by hitting this endpoint:
 http://localhost:8080/message?id=123&message=abc 
 This should return a json with a count that is cumulative to the number of words in the message.
 
-Since some time was giving I took some time for some enhancements and will describe below:
+Since some time was giving I took some time to add some enhancements and will describe below:
 1. Test Cases:      A small test was added to application.
 
 2. Error handling:  If a endpoint is hit that was not explicitly exposed an customized error page will be displayed.

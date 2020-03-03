@@ -26,5 +26,5 @@ Since some time was giving I took some time to add some enhancements and will de
 
 6. Favicon          I added a small image for the tab.
 
-Thank you for giving me this test and the time to complete it, all in all this pretty fun.  Thanks again everyone :)
+Thank you for giving me this test and the time to complete it, all in all this was pretty fun. Thanks again everyone :)
 
